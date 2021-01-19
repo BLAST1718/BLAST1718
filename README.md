@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my server called DRAGONCRAFT
+- 🔭 I’m currently working on my server called ?
 - 🌱 I’m currently learning how to code php for my server plugins
 - 👯 I’m looking to collaborate on a plugin
 - 🤔 I’m looking for help with my server
